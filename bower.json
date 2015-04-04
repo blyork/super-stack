@@ -1,0 +1,26 @@
+{
+    "name": "super-stack",
+    "main": "super-stack.min.js",
+    "version": "0.0.0",
+    "homepage": "https://github.com/blyork/super-stack",
+    "authors": [
+        "Benjamin York <benjaminyork@gmail.com>"
+    ],
+    "description": "sdf asdf",
+    "moduleType": [
+        "amd",
+        "globals",
+        "node"
+    ],
+    "keywords": [
+        "asdf"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
